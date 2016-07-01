@@ -1,0 +1,19 @@
+{
+  "name": "passportdemo",
+  "version": "1.0.0",
+  "description": "Demo application for passportJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enoch Ko",
+  "license": "ISC",
+  "dependencies":{
+  	"express":"*",
+  	"passport":"*",
+  	"passport-local":"*",
+  	"mongoose":"*",
+  	"ejs":"*",
+  	"body-parser":"*"
+  }
+}
